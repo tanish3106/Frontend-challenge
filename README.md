@@ -1,6 +1,6 @@
-# Learning Dashboard (5-file app)
+# Learning Dashboard 
 
-## App code (only 5 files you edit)
+## App code 
 
 | File | Role |
 |------|------|
